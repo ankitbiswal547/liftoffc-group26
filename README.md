@@ -6,4 +6,4 @@ LiftoffC is a program orgainzed by Enigma VSSUT - The Coding Club. This program 
 This repository contains the assignments submitted by the students of LiftoffC Group26, mentored by Ankit Biswal.
 
 Intro to Group 26
-Students in LiftOffC Group26 have opted for intermediate sessions on C programming. There are 8 students assigned to Group25. . . . . . .
+Students in LiftOffC Group26 have opted for intermediate sessions on C programming.
